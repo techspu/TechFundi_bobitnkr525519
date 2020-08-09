@@ -6,13 +6,13 @@ app.config['SECRET_KEY'] = '3f6c7d29c5d0419b8f37dc27539ce891'
 
 posts = [
     {
-        'author': 'karuga ken',
+        'author': 'Richard Ben',
         'title': 'Patient Zero',
         'content': 'covid-19 ',
         'date_posted': 'July 27, 2020',
     },
     {
-        'author': 'Elizabeth nungari',
+        'author': 'Esther Mckenzie',
         'title': 'first contact with Patient Zero',
         'content': 'location: Nairobi',
         'date_posted': 'July 29, 2020',
